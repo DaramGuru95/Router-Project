@@ -1,0 +1,15 @@
+.languages {
+    display: flex;
+}
+
+.studentDetails {
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: column;
+    list-style-type: none;
+}
+
+.list-container {
+    list-style-type: none;
+    padding: 0;
+}
